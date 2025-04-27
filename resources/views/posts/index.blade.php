@@ -3,7 +3,7 @@
 @section('content')
     <div class="max-w-4xl mx-auto p-4">
         <h1 class="text-2xl font-bold mb-6">
-            記事一覧a
+            記事一覧
         </h1><!-- /.text-2xl font-bold mb-6 -->
         <div class="mb-6">
             <a href="{{ route('posts.create') }}" class="px-r py-2 bg-green-500 text-white rounded hover:bg-green-600">
